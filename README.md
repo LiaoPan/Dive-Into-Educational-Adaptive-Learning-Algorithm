@@ -3,5 +3,9 @@
 ## Item Response Theory
 
 ## CDM
+- DINA
+- DINO
 
 ## BKT
+
+## DKT
